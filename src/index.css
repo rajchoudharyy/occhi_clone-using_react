@@ -3,17 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* font-family: "Outfit", sans-serif; */
-/* font-family: "Bebas Neue", sans-serif; */
+/* font-family:Outfit */
+/* font-family:Bebas Neue */
 
-.logo{
-    font-family: "Bebas Neue", sans-serif;
-}
-
-.links a{
-    font-family: "Outfit", sans-serif;
-    font-weight: 100;
-}
 
 @tailwind base;
 @tailwind components;
